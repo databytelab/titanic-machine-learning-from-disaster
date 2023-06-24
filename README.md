@@ -32,13 +32,13 @@ jupyter notebook or open the folder in VSCode
 4. Open the "Titanic_Machine_Learning.ipynb" file in Jupyter Notebook or VSCode.
 5. Follow the step-by-step instructions and execute the code cells to reproduce the analysis and predictions.
 
-## chart_with_upwards_trend Additional Details
+## :chart_with_upwards_trend: Additional Details
 - The "titanic_dataset" folder contains the dataset used for analysis ("train.csv" and "test.csv").
 - The notebook includes data exploration, preprocessing, feature engineering, model training, and evaluation.
 - The trained model is saved as "titanic_model.pkl" for future use.
 - Feel free to explore, modify, and experiment with the notebook to improve the predictions.
 
-## page_facing_up License
+## :page_facing_up: License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for educational and personal purposes.
 
 If you have any questions or suggestions, feel free to open an issue or reach out to the contributors.
