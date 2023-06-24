@@ -1,7 +1,7 @@
 
 # Titanic Machine Learning from Disaster
 
-![Titanic](titanic.png)
+![Titanic](titanic.jpg)
 
 ## 🚢 Introduction
 Welcome to the Titanic Machine Learning from Disaster project! In this project, we aim to predict the survival of passengers aboard the famous Titanic ship using machine learning techniques. This repository provides a Jupyter Notebook containing the analysis and modeling process.
